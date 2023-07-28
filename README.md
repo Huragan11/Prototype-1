@@ -12,4 +12,10 @@ Challange tasks:
   - Position camera on the side and make it follow the plane
   - Write rotation script for propeller to give plane some spirit
 
+Bonus Challenge after Unit 1 also completed and included here.
+Challenge tasks:
+  - Create more obstacles
+  - Create NPC vehicles driving in our direction
+  - Create possibility to change camera angle by pressing key
+  - Create split-screen local multiplayer 
 
